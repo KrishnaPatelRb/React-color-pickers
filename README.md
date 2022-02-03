@@ -1,2 +1,2 @@
-# React-color-pickers
+# react-color-picker
 Created with CodeSandbox
